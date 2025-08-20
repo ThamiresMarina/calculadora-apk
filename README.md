@@ -89,6 +89,7 @@ Evidência (vídeo demonstrativo)
 Você pode conferir a execução dos testes no vídeo gravado:
 
 Veja a evidência aqui
+https://www.loom.com/share/614fedd36ec24886a713de0ef84bb59d?sid=75313181-ccbb-4a39-b7c7-2f4c25ac8fdc
 
 Autor
 
