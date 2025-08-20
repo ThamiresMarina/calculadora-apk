@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tests.CalculadoraTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.77 s -- in tests.CalculadoraTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.95 s -- in tests.CalculadoraTest

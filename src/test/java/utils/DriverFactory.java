@@ -2,6 +2,7 @@ package utils;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 
@@ -22,6 +23,8 @@ public class DriverFactory {
                 options.setAutomationName("UiAutomator2");
                 options.setAppPackage("com.google.android.calculator"); // pacote da calculadora nativa
                 options.setAppActivity("com.android.calculator2.Calculator"); // activity inicial
+                options.setNoReset(true);
+                options.setUiautomator2ServerLaunchTimeout(Duration.ofSeconds(60)); // aumenta timeout
 
                 driver = new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
 
